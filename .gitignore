@@ -7,9 +7,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-*.so
 .Python
-env/
 build/
 develop-eggs/
 dist/
@@ -40,5 +38,3 @@ chroma_db/
 ._*
 .Spotlight-V100
 .Trashes
-ehthumbs.db
-Thumbs.db
